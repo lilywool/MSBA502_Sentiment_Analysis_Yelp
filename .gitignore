@@ -1,0 +1,4 @@
+Yelp-JSON/
+*.json
+venv/
+__pycache__/
